@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Wextra -pedantic -std=c++11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Mandel.dir/src/Mandel.cpp.o  -o bin/Mandel  /usr/local/lib/libSDL2main.a /usr/local/lib/libSDL2.dylib -framework Cocoa /usr/local/lib/libSDL2_ttf.dylib 
